@@ -59,9 +59,6 @@ This is a Machine Learning project that predicts **YouTube ad revenue** based on
 
 ---
 
-## 🚀 How to run
 
-### 1. Install dependencies
 
-```bash
-pip install pandas numpy scikit-learn
+
